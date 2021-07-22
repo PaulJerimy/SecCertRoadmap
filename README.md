@@ -42,6 +42,12 @@ LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
   - Add linking to training resources
   - Add linking to mentions in social media
   - Add linking to mentions on blogs / other engagement
+- Career recommendations
+  - Templates with certification flows matched to job roles
+  - Analysis of completed certifications and desired positions to recommend certification flows
+  - Inclusion of non-certification recommendations such as positions, degrees, and skillsets
+  - Certification recommendations based on current and desired skills
+  - Skills recommendation based on current and desired certifications
 
 ## Database Design
 
