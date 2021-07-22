@@ -1,12 +1,14 @@
 # Security Certification Roadmap
-Interactive HTML/CSS version of the Security Certification Roadmap found at https://pauljerimy.com/security-certification-roadmap/
+An interactive HTML/CSS version of the Security Certification Roadmap found at https://pauljerimy.com/security-certification-roadmap/
 
 This version will utilize Javascript, React, and PostgresDB in order to build additional features. The HTML and CSS will be re-written. XML may be used.
 
 If you have resources, tutorials, or a desire to accomplish the planned features below, please let me know.
 
 Email:    paul@pauljerimy.com
+
 Twitter:  https://twitter.com/PaulJerimy
+
 LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
 
 ## Current Progress
