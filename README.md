@@ -20,7 +20,7 @@ LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
 
 ## Planned Feature
 - Certification database
-  - Create a PostgresDB with tables for each domain, certifying agency, certification, exam, and keywords
+  - Create a database (Realm?) with tables for each domain, certifying agency, certification, exam, and keywords
   - Add data for each Certifying agency
   - Add data for each Certification
 - Procedural chart building
@@ -29,7 +29,7 @@ LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
   - Build consistent readability rules into certification placement
 - Certification Filtering
   - Highlight based on selectors such as agency, security domain, and personal criteria
-  - Allow searching for keywords in the PostgresDB
+  - Allow searching for keywords in the database
   - Filter out certifications based on user input and redraw using procedural rules
 - Chart templates
   - Add additional default layouts based on other frameworks such as CompTIA or SABSA
