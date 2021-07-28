@@ -1,7 +1,7 @@
 # Security Certification Roadmap
 An interactive HTML/CSS version of the Security Certification Roadmap found at https://pauljerimy.com/security-certification-roadmap/
 
-This version will utilize Javascript, React, and PostgresDB in order to build additional features. The HTML and CSS will be re-written. XML may be used.
+This version is a rebuild of the CSS version using React.js. The goal of this version is to first build a framework for interactivity, then add features for education and career management.
 
 If you have resources, tutorials, or a desire to accomplish the planned features below, please let me know.
 
@@ -15,7 +15,8 @@ LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
 - A web host has been established at www.pauljerimy.com
 - An HTML version has been created using CSS to build the chart
 - An initial database design has been completed: [PostgresDB database design](https://pauljerimy.com/OC/DBDesign20201118.png)
-- I have begun the Modern Javscript course on Udemy. I am building on a foundation of Java.
+- Finished the Modern Javscript course on Udemy.
+- Started the React.js Udemy course by Maximilian Schwarzmuller
 
 ## Planned Feature
 - Certification database
