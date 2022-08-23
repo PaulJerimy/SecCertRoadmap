@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/77c90cd8-87da-4e96-aff1-a3d38d5df09c/microsoft.web/sites/subscriptions/77c90cd8-87da-4e96-aff1-a3d38d5df09c/resourceGroups/CredentialGAP/providers/Microsoft.Web/sites/cert-roadmap",
+    "appService.deploySubpath": "."
+}
