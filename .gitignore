@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/cert-roadmap/node_modules
 /.pnp
 .pnp.js
 
