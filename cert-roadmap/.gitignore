@@ -18,6 +18,12 @@
 .env.test.local
 .env.production.local
 
+.vscode
+.git
+.github
+
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+SecurityCertReact.code-workspace
