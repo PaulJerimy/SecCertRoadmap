@@ -12,17 +12,23 @@ Twitter:  https://twitter.com/PaulJerimy
 LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
 
 ## Current Progress
-- A web host has been established at www.pauljerimy.com
-- An HTML version has been created using CSS to build the chart
-- An initial database design has been completed: [PostgresDB database design](https://pauljerimy.com/OC/DBDesign20201118.png)
-- Finished the Modern Javscript course on Udemy.
-- Started the React.js Udemy course by Maximilian Schwarzmuller
+- Started the dev branch with React / Azure App Service starter code
+- Set up an Azure tenant to host the web application
+- Set up a test environment at https://www.credentialgap.com linked to Azure
+- Created the CosmosDB (NoSQL)
+  - Created a JSON object for certifying agency data in the ../CredData folder
+  - Could not get connected to the CosmosDB with Javascript - will use the JSON locally until I sort that out
+
+## Current Effort
+- Organize and enter JSON objects for every certification
+- Plan a strategy to build the chart with Javascript/React
+  - I am considering building a JSON with the current chart data, then call it dynamically with Javascript to fill in a CSS Grid. This may cause problems adapting to a more dynamic system later, but it'll get me started.
 
 ## Planned Feature
 - Certification database
-  - Create a database (Realm?) with tables for each domain, certifying agency, certification, exam, and keywords
-  - Add data for each Certifying agency
+  - Create a database with data for each domain, certifying agency, certification, exam, and keywords
   - Add data for each Certification
+  - Add additional data
 - Procedural chart building
   - Addition of a certification scoring system
   - Add certifications to the chart based on scores
@@ -50,6 +56,6 @@ LinkedIn: https://www.linkedin.com/in/paul-j-morgan/
   - Certification recommendations based on current and desired skills
   - Skills recommendation based on current and desired certifications
 
-## Database Design
-
-![PostgresDB database design](https://pauljerimy.com/OC/DBDesign20201118.png)
+## Relational Database Design
+- I will adapt this to a NoSQL design
+![Database design](https://pauljerimy.com/OC/DBDesign20201118.png)
