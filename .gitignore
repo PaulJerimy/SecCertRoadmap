@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+*.js
+*.js.map
+*.d.ts
+
+.tsbuildinfo
+
+*.DS_Store
+
+.prettierrc.json
+
+.vscode/
